@@ -2,4 +2,6 @@
   box-sizing: border-box;
   background-image: url(https://images.unsplash.com/photo-1574169208507-84376144848b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1158&q=80);
   background-size: cover;
+  background-position: 180%;
 }
+
