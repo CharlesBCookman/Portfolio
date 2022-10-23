@@ -1,11 +1,8 @@
 #page-background {
-  box-sizing: border-box;
-  height:fit-content;
   background-color:#000000;
   background-image:url("https://images.unsplash.com/photo-1567095761054-7a02e69e5c43?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80");
   background-size:cover;
-  background-attachment:fixed;
-  font-family:'Times New Roman', Times, serif
+  font-family:'Times New Roman', Times, serif;
 }
 
 body {
@@ -33,4 +30,25 @@ ul{
 
 p {
   margin-left: 1%;
+}
+
+span {
+  background-color:rgb(142, 66, 66);;
+}
+
+div a {
+  color:indianred;
+}
+
+.photo {
+  box-sizing: border-box;
+  max-width: 10%;
+  height: auto;
+}
+
+.photo img {
+  box-sizing: border-box;
+  max-width: 100%;
+  height: auto;
+  border:ridge silver 4px;
 }
