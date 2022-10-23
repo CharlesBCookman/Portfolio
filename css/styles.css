@@ -1,11 +1,36 @@
 #page-background {
-  background-image:url("https://images.unsplash.com/photo-1574169208507-84376144848b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1158&q=80");
-  background-size:auto;
+  box-sizing: border-box;
+  height:fit-content;
+  background-color:#000000;
+  background-image:url("https://images.unsplash.com/photo-1567095761054-7a02e69e5c43?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80");
+  background-size:cover;
   background-attachment:fixed;
+  font-family:'Times New Roman', Times, serif
 }
 
 body {
-  color:skyblue;
+  color:rgb(126, 211, 244);
 }
 
+h1, h2, h3, p, ul, ol {
+  box-sizing:border-box;
+  width:fit-content;
+  background-color:#000000;
+  padding:2px;
+  border:ridge silver 4px;
 
+}
+
+ol {
+  list-style-type:lower-roman;
+  margin-left: 2%;
+}
+
+ul{
+  list-style-type: disc;
+  margin-left: 2%;
+}
+
+p {
+  margin-left: 1%;
+}

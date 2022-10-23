@@ -10,7 +10,6 @@
 * _Git and GitHub for version control and repository_
 * _Web browsers Google Chrome and Safari for testing_
 * _Laptop and phone for testing website responsiveness_
-* _Coffee_
 
 ## Description of page and a little about me
 
@@ -24,3 +23,23 @@ _{Please use this webpage to view my skills interests and personality. I may not
 
 _{Once you get set up you will neeed to enable GitHub with a Personal Access Token, follow the instructions on this webpage if you have trouble https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token. If you want to make a repository follow the prompts after creting a GitHub account.}
 
+## Known Bugs
+
+* _Not all repositories complete.
+* _Site is a work in progress.
+
+## License
+
+_{This website and the content within are for my personal educational use, it may be used by others on a conditional basis. If you have questions you may email me at CharlesBCookman@gmail.com.}_
+
+Copyright 2022 Charles Cookman
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without limitation in the rights to use, copy, modify, merge, publish, and/ or distribute copies of the Software in an educational or personal context, subject to the following conditions: 
+
+- The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+Permission is granted to sell and/ or distribute copies of the Software in a commercial context, subject to the following conditions:
+
+- Substantial changes: adding, removing, or modifying large parts, shall be developed in the Software. Reorganizing logic in the software does not warrant a substantial change. 
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
