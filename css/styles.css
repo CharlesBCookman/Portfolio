@@ -19,7 +19,7 @@ h1, h2, h3, p, ul, ol {
 }
 
 ol {
-  list-style-type:lower-roman;
+  list-style-type:upper-roman;
   margin-left: 2%;
 }
 
