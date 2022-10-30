@@ -1,8 +1,49 @@
-#page-background {
-  background-color:#000000;
-  background-image:url("https://images.unsplash.com/photo-1567095761054-7a02e69e5c43?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80");
-  background-size:cover;
-  font-family:'Times New Roman', Times, serif;
+@font-face {
+  font-family: 'libre baskerville';
+  src: url(../fonts/LibreBaskerville-Regular.ttf) format('ttf');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'libre baskerville bold';
+  src: url(../fonts/LibreBaskerville-Bold.ttf) format('ttf');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'libre baskerville italic';
+  src: url(../fonts/LibreBaskerville-Italic.ttf) format('ttf');
+  font-style: normal;
+}
+
+body {
+  font-family: 'libre baskerville', serif;
+}
+
+strong {
+  font-family: 'libre baskerville bold', serif;
+}
+
+em {
+  font-family: 'libre baskerville italic', serif;
+}
+
+.ski, .exp, .pro, .abo, .hob {
+  margin: 2% 2%;
+}
+
+.ski {
+  display:block;
+  flex: 2;
+  margin: 0 0 0 25%;
+}
+
+.skilist {
+  margin: 0 0 0 10%;
+}
+
+.top {
+  display: flex;
 }
 
 body {
@@ -14,22 +55,21 @@ h1, h2, h3, p, ul, ol {
   width:fit-content;
   background-color:#000000;
   padding:2px;
-  border:ridge silver 4px;
-
 }
+
+#page-background {
+  background-color:#000000;
+  background: url("https://images.unsplash.com/photo-1574169208507-84376144848b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1158&q=80") 100%/cover no-repeat fixed;
+}
+
 
 ol {
   list-style-type:upper-roman;
-  margin-left: 2%;
+
 }
 
 ul{
   list-style-type: disc;
-  margin-left: 2%;
-}
-
-p {
-  margin-left: 1%;
 }
 
 span {
@@ -44,11 +84,11 @@ div a {
   box-sizing: border-box;
   max-width: 10%;
   height: auto;
+  flex: 1;
 }
 
 .photo img {
   box-sizing: border-box;
   max-width: 100%;
   height: auto;
-  border:ridge silver 4px;
 }
