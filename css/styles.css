@@ -91,4 +91,6 @@ div a {
   box-sizing: border-box;
   max-width: 100%;
   height: auto;
+  margin-left: 10%;
+  border:#000000 solid 5px;
 }
