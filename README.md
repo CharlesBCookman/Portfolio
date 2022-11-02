@@ -13,7 +13,7 @@
 
 ## Description of page and a little about me
 
-_{Please use this webpage to view my skills interests and personality. I may not be the best but I am reliably good in most areas, especially in the most important such as ethics, listening skills, personal responsibility, communication skills and professionalism. I am not the type to take anything too personally or too seriously, unless there is something serious to consider that may cause problems or harm to someone else. It is my nature to try to make people comfortable enough to be honest because honesty is the easiest way to work with people. Also this is of course a webpage that is a work in progress and will have additional content as my skills develop.}_
+_{Please use this webpage to view my skills interests and personality. I may not be the best but I am reliably good in most areas, especially in the most important such as ethics, listening skills, personal responsibility, communication skills and professionalism. I am not the type to take anything too personally or too seriously, unless there is something serious to consider that may cause problems or harm to someone else. It is my nature to try to make people comfortable enough to be honest because honesty is the easiest way to work with people. Also this is of course a webpage that is a work in progress and will have additional content as my skills develop. You may view the files and changes on the Git hub website at https://github.com/CharlesBCookman/Portfolio.}_
 
 ## Setup/Installation Requirements
 
